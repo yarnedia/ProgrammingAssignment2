@@ -40,6 +40,6 @@ cacheSolve <- function(x, ...) {
   # sets the value of the inverse in the cache from the setinv function.
   x$setinv(inv)
   
-  #return the inverse matrix.
+  #return the inverse matrix...
   return(inv)
 }
